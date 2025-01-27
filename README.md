@@ -1,7 +1,7 @@
 # tableau2
 Coffee Shop Sales and Transaction Dashboard - John Patrick Salvatin
 
-View the interactive dashboard on Tableau Public: Comprehensive Sales and Transaction Dashboard
+View the interactive dashboard on Tableau Public: (https://public.tableau.com/app/profile/john.patrick.salvatin/viz/CoffeeShopSalesandTransactionDashboard/ComprehensiveSalesandTransactionDashboard)
 
 This repository contains a Tableau dashboard designed to provide an in-depth analysis of sales and transaction data. The dashboard includes the following visualizations:
 
